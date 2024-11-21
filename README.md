@@ -2,5 +2,5 @@
 
 Просьба делать ссылки на статью в таком библиографическом виде (или в соответствии с правилами Вашего учреждения с обязательным указанием ФИО, наименования работы, ссылки): Емельянов Г. А., Использование информационно-телекоммуникационных сетей в преступных целях [Электронный ресурс] / GitHub. – 2008–202n. Электрон. дан. – Режим доступа: https://github.com/emelyagr/Use-of-information-and-telecommunication-networks-for-criminal-purposes, свободный (дата обращения: nn.nn.nn).
 
-Или другие источники (по приведённому выше примеру): habr.com/ru/articles/798539/, https://t.me/tmfeed/194621, https://devsday.ru/blog/details/171266, https://geekr.vercel.app/post/798539.
+Или другие источники (по приведённому выше примеру): habr.com/ru/articles/798539, https://t.me/tmfeed/194621, https://devsday.ru/blog/details/171266, https://geekr.vercel.app/post/798539.
 
